@@ -1,0 +1,16 @@
+body
+{
+ background-color: grey;
+}
+th
+{
+ text-align: left;
+}
+td
+{
+ text-align: left;
+}
+.star{
+color:red;
+}
+
